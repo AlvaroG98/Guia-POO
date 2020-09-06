@@ -16,7 +16,7 @@ public class main {
      */
      public static void main(String[] args) {
 
-        Perro perro = new Perro("Bruno","Purina",10,"Shiba-inu");
+        Perro perro = new Perro("Bruno","Purina",10,"Cafe");
         Gato gato = new Gato("Pascal","Wishkas",7,"Azules");
         Gallo gallo = new Gallo("Toto","Semillas",2,"Verde");
         Hamster hamster = new Hamster("Hamtaro","lechuga",5,10);
